@@ -1,1 +1,1 @@
-UPdate info for jira int
+UPdate info for jira integration
