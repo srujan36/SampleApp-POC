@@ -1,1 +1,2 @@
-UPdate info for jira integration
+UPdate info for jira integration with github
+
